@@ -1,0 +1,1 @@
+Üniversite 1. sınıf yaz stajında ufak çaplı geliştirdiğim bir uygulamadır.
